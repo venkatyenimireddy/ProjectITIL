@@ -1,0 +1,2 @@
+Command for inserting values for employee table
+   insert into employee values(employeeid,"employeename","employeerole","password");
